@@ -13,4 +13,4 @@ Projeto flappy bird desenvolvido em CSS e JavaScript, o qual é uma réplica do 
 
 ## Detalhes do projeto
 
-> ## Para jogar, utilize o botão espaço do teclado.
+> Para jogar, utilize o botão espaço do teclado.
