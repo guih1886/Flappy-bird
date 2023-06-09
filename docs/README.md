@@ -9,7 +9,7 @@ Projeto flappy bird desenvolvido em CSS e JavaScript, o qual é uma réplica do 
 | :rocket: URL         | https://guih1886.github.io/Flappy-bird/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
+![](https://github.com/guih1886/Flappy-bird/blob/main/docs/imgs/img1.png#vitrinedev)
 
 ## Detalhes do projeto
 
