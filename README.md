@@ -14,5 +14,5 @@ Para jogar, utilize o botão espaço do teclado.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![](https://github.com/guih1886/Flappy-bird/blob/main/docs/imgs/img1.png#vitrinedev)
-![](https://github.com/guih1886/Flappy-bird/blob/main/docs/imgs/img1.png)
+![](https://github.com/guih1886/Flappy-bird/blob/main/imgs/img1.png#vitrinedev)
+![](https://github.com/guih1886/Flappy-bird/blob/main/imgs/img1.png)
