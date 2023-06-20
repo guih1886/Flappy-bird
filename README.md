@@ -2,7 +2,7 @@
 
 Projeto flappy bird desenvolvido em CSS e JavaScript, o qual é uma réplica do jogo que ficou famoso em 2013.
 
-| :placard: Vitrine.Dev |                                         |
+| :placard: Vitrine.Dev |    Guilherme Henrique    |
 | --------------------- | --------------------------------------- |
 | :sparkles: Nome       | **Projeto Flappy Bird**                 |
 | :label: Tecnologias   | HTML, CSS, JavaScript                   |
